@@ -1,0 +1,13 @@
+Project title:
+[Neural networks as universal function approximators]
+
+Running:
+With hw2data_2 in the same folder, simply run the script. To vary the number of neurons, change k. To vary the step size eta, change eta. To vary the stop accuracy threshold, change accuracy in the update function. and testing data size, simply change the number of num_train adn num_test.
+
+Result:
+After running the script, you will get a plot that compares the unknown mapping function and network output.
+
+Authors:
+Wei Zhang wz2402
+Yuxin Fu yf2440
+Zhiyuan He zh2312
