@@ -7,8 +7,3 @@ To vary the training data and testing data size, simply change the number of num
 
 Result:
 After running the script, you will get the accuracy of the for this type of data representation.
-
-Authors:
-Wei Zhang wz2402
-Yuxin Fu yf2440
-Zhiyuan He zh2312
