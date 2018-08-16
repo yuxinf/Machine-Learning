@@ -7,3 +7,12 @@ To vary the training data and testing data size, simply change the number of num
 
 Result:
 After running the script, you will get the accuracy of the for this type of data representation.
+
+Project title:
+[Neural networks as universal function approximators]
+
+Running:
+To vary the number of neurons, change k. To vary the step size eta, change eta. To vary the stop accuracy threshold, change accuracy in the update function. and testing data size, simply change the number of num_train adn num_test.
+
+Result:
+After running the script, you will get a plot that compares the unknown mapping function and network output.
