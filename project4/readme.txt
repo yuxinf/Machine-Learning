@@ -8,8 +8,3 @@ Due to the fact that we initialize the z value randomly, the precise result cann
 
 Result:
 After running the script, you will get a plot of dataset before clustering and a plot of resulting cluster.
-
-Authors:
-Wei Zhang wz2402
-Yuxin Fu yf2440
-Zhiyuan He zh2312
